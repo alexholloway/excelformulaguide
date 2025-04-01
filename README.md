@@ -1,5 +1,5 @@
 # excelformulaguide
-A repository for all the demonstrated excel formulas in action
+A repository for all the demonstrated excel formulas in action. There are 3x zip files containing approximately 170 files each (A-E; F-N; O-Z)
 
 Get the book now on Amazon at the following links:
 
